@@ -1,10 +1,15 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+
 # simple-blog Post Laravel 5.4 With Crudbooster Admin Generator
 ##Template By 
 - Nuptial
 - Admin LTE
 
-
+##Screenshot
+<p align="center"><img src="https://raw.githubusercontent.com/oecax2208/Aya-Blog/master/Screenshot%20(172).png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/oecax2208/Aya-Blog/master/Screenshot%20(174).png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/oecax2208/Aya-Blog/master/Screenshot%20(175).png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/oecax2208/Aya-Blog/master/Screenshot%20(176).png"></p>
 
 
 ## How to use
@@ -45,9 +50,6 @@ In Laravel 5.4 Problem Can Be Found In Storage Not Found
 	Tokenizer PHP Extension
 	XML PHP Extension
 
-## License
-
-This is free software distributed under the terms of the MIT license
 
 ## Additional information
 
