@@ -1,9 +1,11 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+
 # simple-blog Post Laravel 5.4 With Crudbooster Admin Generator
+
 ##Template By 
 Nuptial - 100% Fully Responsive Free HTML5 Bootstrap Template
 
-AUTHOR:
+##AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
 
 Website: http://freehtml5.co/
@@ -17,7 +19,7 @@ import database ayablog.sql
 SQL Compabiliti use ANSI
 Uncheck Do not use AUTO_INCREMENT for zero values
 
-#Setup Connection
+##Setup Connection
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__ and edit database credentials there
 - Run __composer install__
