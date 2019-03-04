@@ -1,46 +1,40 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
 # simple-blog Post Laravel 5.4 With Crudbooster Admin Generator
-
 ##Template By 
-Nuptial - 100% Fully Responsive Free HTML5 Bootstrap Template
+- Nuptial
+- Admin LTE
 
-##AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
 
 
 ## How to use
-Create Database in your Host
-import database ayablog.sql 
-SQL Compabiliti use ANSI
-Uncheck Do not use AUTO_INCREMENT for zero values
+- Create Database in your Host
+- import database ayablog.sql 
+- SQL Compabiliti use ANSI
+- Uncheck Do not use AUTO_INCREMENT for zero values
 
-##Setup Connection
+#Setup Connection
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__ and edit database credentials there
 - Run __composer install__
 - Run __php artisan key:generate__
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1 //By default (Yourhost)
-DB_PORT=3306 //(Your Port)
-DB_DATABASE=homestead //(setup database name)
-DB_USERNAME=homestead //(username host)
-DB_PASSWORD=secret //(Password Additional)
+- DB_CONNECTION=mysql
+- DB_HOST=127.0.0.1 //By default (Yourhost)
+- DB_PORT=3306 //(Your Port)
+- DB_DATABASE=homestead //(setup database name)
+- DB_USERNAME=homestead //(username host)
+- DB_PASSWORD=secret //(Password Additional)
 
 ##Login Use 
-url for Admin login
-localhost/admin/
-username : aya@mail.dev
-password : 123456
+- url for Admin login
+- localhost/admin/
+- username : aya@mail.dev
+- password : 123456
 
 ##Trouble
 In Laravel 5.4 Problem Can Be Found In Storage Not Found
-run php artisan storage:link
+- run php artisan storage:link
 
 ##Requirements
 
@@ -73,9 +67,3 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
-
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
