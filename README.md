@@ -5,7 +5,7 @@
 - Nuptial
 - Admin LTE
 
-##Screenshot
+## Screenshot
 <p align="center"><img src="https://raw.githubusercontent.com/oecax2208/Aya-Blog/master/Screenshot%20(172).png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/oecax2208/Aya-Blog/master/Screenshot%20(174).png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/oecax2208/Aya-Blog/master/Screenshot%20(175).png"></p>
@@ -18,7 +18,7 @@
 - SQL Compabiliti use ANSI
 - Uncheck Do not use AUTO_INCREMENT for zero values
 
-#Setup Connection
+# Setup Connection
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__ and edit database credentials there
 - Run __composer install__
@@ -31,17 +31,17 @@
 - DB_USERNAME=homestead //(username host)
 - DB_PASSWORD=secret //(Password Additional)
 
-##Login Use 
+## Login Use 
 - url for Admin login
 - localhost/admin/
 - username : aya@mail.dev
 - password : 123456
 
-##Trouble
+## Trouble
 In Laravel 5.4 Problem Can Be Found In Storage Not Found
 - run php artisan storage:link
 
-##Requirements
+## Requirements
 
 	PHP >= 5.6.4
 	OpenSSL PHP Extension
